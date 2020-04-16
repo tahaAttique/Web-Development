@@ -1,0 +1,1 @@
+This is freelancing platfrom made on ASP.NET. MS SQL Server is used. Session are maintained. Roles are made. It may help u. Enjoy !!
